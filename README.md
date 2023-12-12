@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **harshkhasbage77@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/CVCyberSec](https://bit.ly/CVCyberSec)
-
 - ⚡ Fun fact **I am Governor of Technology Adventure Society, TSG, IIT KGP.**
 
 <h3 align="left">Connect with me:</h3>
