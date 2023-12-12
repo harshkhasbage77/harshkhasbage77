@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Khasbage, a passionate Developer and Cybersecurity enthusiast.</h1>
-<h3 align="center">a pre-final year undergraduate student of the Department of Computer Science and Engineering enrolled in its B.Tech course at Indian Institute of Technology. I am currently engaged in Web Development, App Development and Open Source but at the same time also exploring Cybersecurity.</h3>
+<h3 align="center">A pre-final year undergraduate student of the Department of Computer Science and Engineering enrolled in its B.Tech course at Indian Institute of Technology. I am currently engaged in Web Development, App Development and Open Source but at the same time also exploring Cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkhasbage77&label=Profile%20views&color=0e75b6&style=flat" alt="harshkhasbage77" /> </p>
 
