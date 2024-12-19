@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Khasbage, <br> a passionate Developer and Cybersecurity enthusiast.</h1>
-<h3 align="center">A pre-final year undergraduate student of the Department of Computer Science and Engineering enrolled in its B.Tech course at Indian Institute of Technology. I am currently engaged in Web Development, App Development and Open Source but at the same time also exploring Cybersecurity.</h3>
+<h3 align="center">A pre-final year undergraduate student of the Department of Computer Science and Engineering enrolled in its B.Tech course at Indian Institute of Technology. I am currently engaged in Web Development, App Development and Open Source, and exploring Cybersecurity.</h3>
 
 <p>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=harshkhasbage77.harshkhasbage77" alt="visitor badge"/>
     <a href="https://github.com/harshkhasbage77/"><img src="https://img.shields.io/github/followers/harshkhasbage77?style=social"/></a>
     <a href="https://github.com/harshkhasbage77?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
+    <img src="https://img.shields.io/badge/OS-Kali-1114ff"/>
     <p align="left"> <a href="https://twitter.com/harshkhasbage77" target="blank"><img src="https://img.shields.io/twitter/follow/harshkhasbage77?logo=twitter&style=for-the-badge" alt="harshkhasbage77" /></a> </p>
 </p>
 
